@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tadaseth
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning Python
+- 👾 Skilled in Web developing
 
 
 <!---
